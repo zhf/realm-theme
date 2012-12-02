@@ -1,5 +1,8 @@
 # A Dark Theme for Mou.app
 
+## Screen Shot
+![screenshot](https://raw.github.com/zhf/realm-theme/master/screenshot.png)
+
 ## How to Install (on OS X)
 
 Fire up Terminal and run the following commands:
