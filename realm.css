@@ -85,14 +85,14 @@ strong {
 	font-weight: bold;
 }
 del {
-	margin-left: 0.3em;
+	margin-left: 0.2em;
 	background-color: #59acf3;
 	color: white;
 /* 	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25); */
 	text-decoration: none;
 	font-size: 0.7em;
 	font-weight: bold;
-	padding: 0.2em 0.3em;
+	padding: 0.1em 0.2em;
 	vertical-align: super;
 	border-radius: 2px;
 /* 	box-shadow: 1px 1px 1px black; */
@@ -203,8 +203,9 @@ pre {
 pre code {
 	border: 0;
 	padding: 0;
-	line-height: 120%;
+	line-height: 150%;
 }
+
 @media screen and (min-width: 768px) {
     body {
         width: 668px;
